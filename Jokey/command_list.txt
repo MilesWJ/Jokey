@@ -1,0 +1,7 @@
+**UTILITY COMMANDS** :tools: 
+**/help** — Returns a list of available commands.
+**/ping** — Returns bot latency.
+**/clear** — Clears a suggested amount of messages.
+
+**JOKE COMMANDS** :rofl:
+**/joke** — Returns a random joke.
