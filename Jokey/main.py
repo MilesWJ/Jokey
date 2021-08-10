@@ -8,7 +8,7 @@ from itertools import cycle
 from random import choice
 from urllib import request
 
-TOKEN = "ODczNjI3OTg1MzI3MDMwMjg0.YQ7Ldg.SwhMpDAVZSH34sigrDtV33zEddI"
+TOKEN = REDACTED
 GUILD_ID = 872638182469021727
 
 # Slash commands enabled, use those instead. ("application.commands" on discord.com/developers)
