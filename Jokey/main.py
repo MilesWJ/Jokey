@@ -8,8 +8,8 @@ from itertools import cycle
 from random import choice
 from urllib import request
 
-TOKEN = REDACTED
-GUILD_ID = 872638182469021727
+TOKEN = YOUR TOKEN HERE
+GUILD_ID = YOUR GUILD ID HERE
 
 # Slash commands enabled, use those instead. ("application.commands" on discord.com/developers)
 Jokey = commands.Bot(command_prefix="/")
