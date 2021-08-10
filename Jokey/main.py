@@ -134,9 +134,9 @@ async def _clear(ctx: SlashContext, amount: int):
     if amount > 0:
 
         if amount == 1:
-            await ctx.send(f"Clearing {amount} message...")
+            await ctx.send(f"Clearing **{amount}** message...")
         else:
-            await ctx.send(f"Clearing {amount} messages...")
+            await ctx.send(f"Clearing **{amount}** messages...")
 
         await ctx.channel.purge(limit=amount + 1)
 
