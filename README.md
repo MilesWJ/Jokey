@@ -14,12 +14,12 @@ Execute the main.py file and wait for the bot start up. A message indicating tha
 
 # Commands
 UTILITY COMMANDS
-/help — Returns a list of available commands.
-/ping — Returns bot latency.
-/clear — Clears a suggested amount of messages.
+- /help — Returns a list of available commands.
+- /ping — Returns bot latency.
+- /clear — Clears a suggested amount of messages.
 
 JOKE COMMANDS
-/joke — Returns a random joke.
+- /joke — Returns a random joke.
 
 # Additional Notes
 - You will need to create an application at https://discord.com/developers/applications, and copy the application's secret token into the TOKEN variable to self-run the discord bot.
