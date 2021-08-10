@@ -13,12 +13,12 @@ Execute the main.py file and wait for the bot start up. A message indicating tha
 ![alt text](https://github.com/MilesWJ/Jokey/blob/6419dbe851655da794e4c29e69534ee5f86ebfba/Jokey/Assets/usage.gif)
 
 # Commands
-**UTILITY COMMANDS
+**UTILITY COMMANDS**
 - /help — Returns a list of available commands.
 - /ping — Returns bot latency.
 - /clear — Clears a suggested amount of messages.
 
-**JOKE COMMANDS
+**JOKE COMMANDS**
 - /joke — Returns a random joke.
 
 # Additional Notes
