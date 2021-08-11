@@ -21,7 +21,7 @@ status = cycle(
     ["Minecraft",
      "Garry's Mod",
      "Grand Theft Auto V",
-     "Terraria"
+     "Terraria",
      "League of Legends"]
 )
 
